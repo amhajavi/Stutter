@@ -1,7 +1,7 @@
 ### Dependencies
-- [Python 2.7.15](https://www.continuum.io/downloads)
-- [Keras 2.2.4](https://keras.io/)
-- [Tensorflow 1.8.0](https://www.tensorflow.org/)
+- [Python_3](https://www.continuum.io/downloads)
+- [Keras](https://keras.io/)
+- [Tensorflow](https://www.tensorflow.org/)
 
 ### Training the model
 To train the model on the Voxceleb2 dataset, you can run
